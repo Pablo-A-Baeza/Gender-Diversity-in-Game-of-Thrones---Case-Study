@@ -1,12 +1,12 @@
-# Gender-Diversity-in-Game-of-Thrones---Case-Study
+# Gender-Diversity-in-Game-of-Thrones-Case-Study
 Analysis of gender diversity of the company Westeros
 
 
 # Introduction
-The purpose of this anaysis is to practice a primary function within People Analytics, a diversity analysis to explore whether or not women/men tend to be under-represented in certain departments within an organization. The data has been extracted from two Github repositories [link](https://github.com/jeffreylancaster/game-of-thrones/tree/master/data) and the analysis is based on the chapter 4  *Diversity Analytics* of the book *Predictive HR Analytics by Martin R Edwads & Kirsten Edwards.
+The purpose of this anaysis is to practice a primary function within People Analytics, a diversity analysis to explore whether or not women/men tend to be under-represented in certain departments within an organization. The data has been extracted from two Github repositories [link](https://github.com/jeffreylancaster/game-of-thrones/tree/master/data) and the analysis is based on the chapter *4 - Diversity Analytics* of the book *Predictive HR Analytics by Martin R Edwads & Kirsten Edwards*.
 
 # Case
-The company Westeros has 13 different departments
+The company Westeros has 13 different departments (house)
 
 * Stark
 * Targaryen
@@ -22,7 +22,7 @@ The company Westeros has 13 different departments
 * White Walkers
 * Dothraki
 
-As a new People Analyst of Westeros, one of your first fact-finding missions is to explore gender diversity within each company department (house). This is a paramount analysis, as its findings will enable Bran the broker, former CEO of Westeros and his co-founder, Tyrion Lannister, to ensure that Westeros has a richly diverse workforce.
+As a new People Analyst of Westeros, one of your first fact-finding missions is to explore gender diversity within each company department. This is a paramount analysis, as its findings will enable the board, composed by Bran the broker, former CEO of Westeros and his co-founder, Tyrion Lannister, to ensure that Westeros has a richly diverse workforce.
 
 To do so, you first collected some data from the former employees working for Westeros, their name, gender, and company department.
 
@@ -122,20 +122,19 @@ Stark|Targaryen|Baratheon|Lannister|Night's Watch| Greyjoy|Tyrell|Wildlings|Mart
 
 ![](https://github.com/Pablo-A-Baeza/Gender-Diversity-in-Game-of-Thrones---Case-Study/blob/master/house_freq_p.jpeg)
 
-The department **Night's Watch** is the one with more employess, in total 13 accounting for 16% of the total workforce, whereas the least is **Tully** with just 1 employees accounting for 2% of the total workforce.
+The department **Night's Watch** is the one with more employess, in total 13 employees accounting for 16% of the total workforce, whereas the least is **Tully** with just 2 employees accounting for 2% of the total workforce.
 
 
-
-Now, let's explore gender frequency regardless of employees department.
+Now, let's explore gender frequency regardless of employees' department.
 
 Female|Male|Other
 21|58|3
 
 ![](https://github.com/Pablo-A-Baeza/Gender-Diversity-in-Game-of-Thrones---Case-Study/blob/master/gender_freq_p.jpeg)
 
-We have a workforce strongly represented by 58 **Males**, accounting for 71% of the total workforce. Only 21 employees of Westeros are **Female** (26%)  and 3 employees prefer not to state their gender **(Other)** (4%).
+We have a workforce strongly represented by 58 (71%) **Males**  and only 21 (26%) **Female**. We also have 3 (4%) employees who prefer not to state their gender **(Other)**.
 
-Let's create a contingency table to better understand the frequency of department by house.
+Let's create a contingency table to better understand the frequency of department by gender.
 
 Dep|Female|Male|Other
 ---|------|----|-----
@@ -155,29 +154,31 @@ Dothraki|2|3|0
    
 We could already present these descriptive data to Westeros' board, stating that gender proportions across the different departments vary quite a bit. However, because we lack statistical analysis, we could see how the board see these data as *a coincidence*. Let's run a chi-qsuare test to see whether the pattern in our gender proportions is meaningful.
 
-Chi-squared = 60.839, df = 24, p-value = 4.859e-05
+Chi-squared = 60.839, df = 24, p-value = **4.859e-05**
 
-The chi-square results are very significant, now we have data to back us up in front of the board. Let's knock on their door.
+The chi-square results are very **significant**, now we have data to back us up in front of the board. Let's knock on their door.
 
 *People Analyst:* After collecting data of Westeros workforce and analyzing it, I've found a very stronge pattern between gender proportions and departments.
 
 *Board:* That might be a coincidence, we definitely take care of having a diverse and rich workforce within our organization.
 
-*People Analyst:* The results of the chi-square checking for statistical significance show this is not a coincedence. 
+*People Analyst:* The results of the chi-square checking for statistical significance don't show that. 
 
 *Board:* Could you stop speaking like a Dothraki?
 
 *People Analyst:* In short, the likelihood of this being a coincidence is less than 1 in 1,000. There's something going on between the proportion of employees in each department in relation to their gender. 
 
-Here's a graph showing how  this pattern looks like.
-The color of the circles indicates whether there is a posive (white) association between gender and department or not (black). Their size shows how *strong* this pattern is.
+Here's a graph showing how this pattern looks like.
+PLOT
 
-With just a glimpse, we can see that within the **Targaryen** department, employees don't want to state their gender and that **Night's Watch** department there is a strong negative association between being *female* and working there.
+The color of the circles indicates whether there is a positive (white) *association* between gender and department or not (black). Their size shows how *strong* this pattern is.
+
+With just a glimpse, we can see that within **Targaryen** department, employees don't want to state their gender and that within **Night's Watch** department there is a strong negative association between being *female* and working there.
 We should continue analyzing this pattern to bring nuances that could help us to find out the rationale behind all this.
 
 *Board:* Ok, ho ahead.
 
 # Conclusion
-After further analysis coordinated by the People Analyst, Westeros found that apparently, employees within department **Targaryen** tend to see themselves as being a *Dragon* rather than being a *Male* or *Female*. Because Westeros aims to have a large-scale culture, it will not discriminate the decision of these employees. Additionally, department *Night's Watch* present only *Male* employees because they are located in another separate building where women were not allowed to work for. Now, the board is taking actions to reverse this policy, thus spurring this department to have a diverse gender workforce.
+After further analysis coordinated by the People Analyst, Westeros found that apparently, employees within department **Targaryen** tend to see themselves as being a *Dragon* rather than being a *Male* or *Female*. Because Westeros aims to have a large-scale culture, it will not discriminate the decision of these employees. Additionally, department *Night's Watch* presents only *Male* employees because they are located in another separate building where women were not allowed to work for. Now, the board is taking actions to reverse this policy, thus spurring this department to have a diverse gender workforce.
 
 

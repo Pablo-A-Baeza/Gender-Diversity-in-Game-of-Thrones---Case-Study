@@ -169,7 +169,7 @@ The chi-square results are very **significant**, now we have data to back us up 
 *People Analyst:* In short, the likelihood of this being a coincidence is less than 1 in 1,000. There's something going on between the proportion of employees in each department in relation to their gender. 
 
 Here's a graph showing how this pattern looks like.
-PLOT
+![](https://github.com/Pablo-A-Baeza/Gender-Diversity-in-Game-of-Thrones---Case-Study/blob/master/corrplot.jpeg)
 
 The color of the circles indicates whether there is a positive (white) *association* between gender and department or not (black). Their size shows how *strong* this pattern is.
 

@@ -128,6 +128,7 @@ The department **Night's Watch** is the one with more employees, in total 13 and
 Now, let's explore gender frequency regardless of employees' department.
 
 Female|Male|Other
+------|----|-----
 21|58|3
 
 ![](https://github.com/Pablo-A-Baeza/Gender-Diversity-in-Game-of-Thrones---Case-Study/blob/master/gender_freq_p.jpeg)

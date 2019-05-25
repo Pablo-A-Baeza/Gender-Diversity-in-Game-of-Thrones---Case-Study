@@ -1,2 +1,90 @@
 # Gender-Diversity-in-Game-of-Thrones---Case-Study
 Analysis of gender diversity of the company Westeros
+
+<details>
+    <summary>Workforce</summary>
+
+    - ID               Name       Dep         Gender
+    - 1                Arya       Stark       Female
+    - 2                Benjen     Stark       Male
+    - 3                  Bran     Stark       Male
+    - 4         Catelyn Stark     Stark       Female
+    - 5                Eddard     Stark       Male
+    - 6              Jon Snow     Stark       Male
+    - 7                Rickon     Stark       Male
+    - 8                  Robb     Stark       Male
+    - 9                 Sansa     Stark       Female
+    - 10            Daenerys      Targaryen   Female
+    - 11               Drogon     Targaryen   Other
+    - 12              Rhaegal     Targaryen   Other
+    - 13             Viserion     Targaryen   Other
+    - 14             Viserys      Targaryen   Male
+    - 15              Joffrey     Baratheon   Male
+    - 16            Myrcella      Baratheon   Female
+    - 17               Renly      Baratheon   Male
+    - 18               Robert     Baratheon   Male
+    - 19               Selyse     Baratheon   Female
+    - 20              Shireen     Baratheon   Female
+    - 21              Stannis     Baratheon   Male
+    - 22               Tommen     Baratheon   Male
+    - 23               Gendry     Baratheon   Male
+    - 24               Cersei     Lannister   Female
+    - 25                Jaime     Lannister   Male
+    - 26                Kevan     Lannister   Male
+    - 27               Lancel     Lannister   Male
+    - 28               Tyrion     Lannister   Male
+    - 29                Tywin     Lannister   Male
+    - 30       Alliser Thorne Night's Watch   Male
+    - 31      Eddison Tollett Night's Watch   Male
+    - 32                Grenn Night's Watch   Male
+    - 33         Jeor Mormont Night's Watch   Male
+    - 34          Karl Tanner Night's Watch   Male
+    - 35        Maester Aemon Night's Watch   Male
+    - 36                 Olly Night's Watch   Male
+    - 37       Othell Yarwyck Night's Watch   Male
+    - 38                Pypar Night's Watch   Male
+    - 39      Qhorin Halfhand Night's Watch   Male
+    - 40                 Rast Night's Watch   Male
+    - 41        Samwell Tarly Night's Watch   Male
+    - 42                Yoren Night's Watch   Male
+    - 43                Balon       Greyjoy   Male
+    - 44                Euron       Greyjoy   Male
+    - 45                Theon       Greyjoy   Male
+    - 46                 Yara       Greyjoy   Female
+    - 47                Loras        Tyrell   Male
+    - 48                 Mace        Tyrell   Male
+    - 49             Margaery        Tyrell   Female
+    - 50               Olenna        Tyrell   Female
+    - 51             Baby Sam     Wildlings   Male
+    - 52              Craster     Wildlings   Male
+    - 53                Gilly     Wildlings   Female
+    - 54       Mag the Mighty     Wildlings   Male
+    - 55         Mance Rayder     Wildlings   Male
+    - 56                 Osha     Wildlings   Female
+    - 57          Rattleshirt     Wildlings   Male
+    - 58           Thenn Warg     Wildlings   Male
+    - 59   Tormund Giantsbane     Wildlings   Male
+    - 60              Wun Wun     Wildlings   Male
+    - 61              Ygritte     Wildlings   Female
+    - 62                Doran       Martell   Male
+    - 63         Ellaria Sand       Martell   Female
+    - 64        Nymeria Sand       Martell    Female
+    - 65           Obara Sand       Martell   Female
+    - 66               Oberyn       Martell   Male
+    - 67             Trystane       Martell   Male
+    - 68           Tyene Sand       Martell   Female
+    - 69  Black Walder Rivers          Frey   Male
+    - 70               Lothar          Frey   Male
+    - 71               Walder          Frey   Male
+    - 72              Brynden         Tully   Male
+    - 73               Edmure         Tully   Male
+    - 74 Mag the Mighty Wight White Walkers   Male
+    - 75       The Night King White Walkers   Male
+    - 76  Wight Wildling Girl White Walkers   Female
+    - 77        Wun Wun Wight White Walkers   Male
+    - 78               Doreah      Dothraki   Female
+    - 79                 Irri      Dothraki   Female
+    - 80           Khal Drogo      Dothraki   Male
+    - 81              Rakharo      Dothraki   Male
+    - 82                Qhono      Dothraki   Male
+</details>

@@ -153,13 +153,13 @@ Tully|0|2|0
 White Walkers|1|3|0
 Dothraki|2|3|0 
    
-We could already present these descriptive data to Westeros' board, stating that gender proportions across the different departments vary quite a bit. However, because we lack statistical analysis, we could see how the board see these data as *a coincidence*. Let's run a chi-qsuare test to see whether the pattern in our gender proportions is meaningful.
+We could already present these descriptive data to Westeros' board, stating that gender proportions across the different departments vary quite a bit. However, because we lack statistical analysis, we could see how the board see these data as *a coincidence*. Let's run a chi-square test to see whether the pattern in our gender proportions is meaningful.
 
 Chi-squared = 60.839, df = 24, p-value = **4.859e-05**
 
 The chi-square results are very **significant**, now we have data to back us up in front of the board. Let's knock on their door.
 
-*People Analyst:* After collecting data of Westeros workforce and analyzing them, I've found a very stronge pattern between gender proportions and departments.
+*People Analyst:* After collecting data of Westeros workforce and analyzing them, I've found a very strong pattern between gender proportions and departments.
 
 *Board:* That might be a coincidence, we definitely take care of having a diverse and rich workforce within our organization.
 

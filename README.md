@@ -116,14 +116,40 @@ To do so, you first collected some data from the former employees working for We
 
 We have a workforce of 82 employees located in 13 different departments. Let's explore more in depth the frequency of employees within each department regardless of their gender.
 
-Now, let's explore gender frequency regardless of employees department.
-
 Stark|Targaryen|Baratheon|Lannister|Night's Watch| Greyjoy|Tyrell|Wildlings|Martell|Frey|Tully|White Walkers|Dothraki 
 -----|---------|---------|---------|-------------|--------|------|---------|-------|----|-----|-------------|-------- 
 9|5|9|6|13|4|4|11|7|3|2|4|5   
 
+The department **Night's Watch** is the one with more employess, in total 13 accounting for 16% of the total workforce, whereas the least is **Tully** with just 1 employees accounting for 2% of the total workforce.
 
-     
+ HERE GOES THE PLOT
+
+Now, let's explore gender frequency regardless of employees department.
+
+Female|Male|Other
+21|58|3
+
+We have a workforce strongly represented by 58 **Males**, accounting for 71% of the total workforce. Only 21 employees of Westeros are **Female** (26%)  and 3 employees prefer not to state their gender **(Other)** (4%).
+
+HERE GOES THE PLOT
+
+Let's create a contingency table to better understand the frequency of department by house.
+
+Dep|Female|Male|Other
+---|------|----|-----
+Stark|3|6|0
+Targaryen|1|1|3
+Baratheon|3|6|0
+Lannister|1|5|0
+Night's Watch|0|13|0
+Greyjoy|1|3|0
+Tyrell|2|2|0
+Wildlings|3|8|0
+Martell|4|3|0
+Frey|0|3|0
+Tully|0|2|0
+White Walkers|1|3|0
+Dothraki|2|3|0 
    
            
 

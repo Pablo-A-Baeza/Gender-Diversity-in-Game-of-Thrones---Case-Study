@@ -151,5 +151,31 @@ Tully|0|2|0
 White Walkers|1|3|0
 Dothraki|2|3|0 
    
-           
+We could already present these descriptive data to Westeros' board, stating that gender proportions across the different departments vary quite a bit. However, because we lack statistical analysis, we could see how the board see these data as *a coincidence*. Let's run a chi-qsuare test to see whether the pattern in our gender proportions is meaningful.
+
+Chi-squared = 60.839, df = 24, p-value = 4.859e-05
+
+The chi-square results are very significant, now we have data to back us up in front of the board. Let's knock on their door.
+
+*People Analyst:* After collecting data of Westeros workforce and analyzing it, I've found a very stronge pattern between gender proportions and departments.
+
+*Board:* That might be a coincidence, we definitely take care of having a diverse and rich workforce within our organization.
+
+*People Analyst:* The results of the chi-square checking for statistical significance show this is not a coincedence. 
+
+*Board:* Could you stop speaking like a Dothraki?
+
+*People Analyst:* In short, the likelihood of this being a coincidence is less than 1 in 1,000. There's something going on between the proportion of employees in each department in relation to their gender. 
+
+Here's a graph showing how  this pattern looks like.
+The color of the circles indicates whether there is a posive (white) association between gender and department or not (black). Their size shows how *strong* this pattern is.
+
+With just a glimpse, we can see that within the **Targaryen** department, employees don't want to state their gender and that **Night's Watch** department there is a strong negative association between being *female* and working there.
+We should continue analyzing this pattern to bring nuances that could help us to find out the rationale behind all this.
+
+*Board:* Ok, ho ahead.
+
+# Conclusion
+After further analysis coordinated by the People Analyst, Westeros found that apparently, employees within department **Targaryen** tend to see themselves as being a *Dragon* rather than being a *Male* or *Female*. Because Westeros aims to have a large-scale culture, it will not discriminate the decision of these employees. Additionally, department *Night's Watch* present only *Male* employees because they are located in another separate building where women were not allowed to work for. Now, the board is taking actions to reverse this policy, thus spurring this department to have a diverse gender workforce.
+
 

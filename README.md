@@ -3,7 +3,7 @@ Analysis of gender diversity of the company Westeros
 
 
 # Introduction
-The purpose of this anaysis is to practice a primary function within People Analytics, a diversity analysis to explore whether or not women/men tend to be under-represented in certain departments within an organization. The data has been extracted from two Github repositories [link](https://github.com/jeffreylancaster/game-of-thrones/tree/master/data) and the analysis is based on the chapter *4 - Diversity Analytics* of the book *Predictive HR Analytics by Martin R Edwads & Kirsten Edwards*.
+The purpose of this analysis is to practice a primary function within People Analytics, a diversity analysis to explore whether or not women/men tend to be under-represented in certain departments within an organization. The data has been extracted from two Github repositories [link](https://github.com/jeffreylancaster/game-of-thrones/tree/master/data) and the analysis is based on the chapter *4 - Diversity Analytics* of the book *Predictive HR Analytics by Martin R Edwads & Kirsten Edwards*.
 
 # Case
 The company Westeros has 13 different departments (house)

@@ -120,9 +120,11 @@ Stark|Targaryen|Baratheon|Lannister|Night's Watch| Greyjoy|Tyrell|Wildlings|Mart
 -----|---------|---------|---------|-------------|--------|------|---------|-------|----|-----|-------------|-------- 
 9|5|9|6|13|4|4|11|7|3|2|4|5   
 
+![](https://github.com/Pablo-A-Baeza/Gender-Diversity-in-Game-of-Thrones---Case-Study/blob/master/house_freq_p.jpeg)
+
 The department **Night's Watch** is the one with more employess, in total 13 accounting for 16% of the total workforce, whereas the least is **Tully** with just 1 employees accounting for 2% of the total workforce.
 
- HERE GOES THE PLOT
+
 
 Now, let's explore gender frequency regardless of employees department.
 

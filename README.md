@@ -180,5 +180,5 @@ We should continue analyzing this pattern to bring nuances that could help us to
 *Board:* Ok, ho ahead.
 
 # Conclusion
-After further analysis coordinated by the People Analyst, Westeros found that apparently, employees within department **Targaryen** tend to see themselves as being a *Dragon* rather than being a *Male* or *Female*. Because Westeros aims to have a large-scale diverse workforce, it will not discriminate the decision of these employees. Additionally, department *Night's Watch* presents only *Male* employees because they are located in another separate building where women were not allowed to enter. Now, the board is taking actions to reverse this policy, thus spurring this department to have a diverse gender workforce.
+After further analysis coordinated by the People Analyst, Westeros found that apparently, employees within department **Targaryen** tend to see themselves as being a *Dragon* rather than being a *Male* or *Female*. Because Westeros aims to have a large-scale diverse workforce, it will not discriminate the decision of these employees. Additionally, department **Night's Watch** presents only *Male* employees because they are located in another separate building where women are not allowed to enter. Now, the board is taking actions to reverse this policy, thus spurring this department to have a diverse gender workforce.
 

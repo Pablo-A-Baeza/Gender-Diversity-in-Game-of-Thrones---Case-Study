@@ -159,7 +159,7 @@ Chi-squared = 60.839, df = 24, p-value = **4.859e-05**
 
 The chi-square results are very **significant**, now we have data to back us up in front of the board. Let's knock on their door.
 
-*People Analyst:* After collecting data of Westeros workforce and analyzing it, I've found a very stronge pattern between gender proportions and departments.
+*People Analyst:* After collecting data of Westeros workforce and analyzing them, I've found a very stronge pattern between gender proportions and departments.
 
 *Board:* That might be a coincidence, we definitely take care of having a diverse and rich workforce within our organization.
 

@@ -131,9 +131,9 @@ Now, let's explore gender frequency regardless of employees department.
 Female|Male|Other
 21|58|3
 
-We have a workforce strongly represented by 58 **Males**, accounting for 71% of the total workforce. Only 21 employees of Westeros are **Female** (26%)  and 3 employees prefer not to state their gender **(Other)** (4%).
+![](https://github.com/Pablo-A-Baeza/Gender-Diversity-in-Game-of-Thrones---Case-Study/blob/master/gender_freq_p.jpeg)
 
-HERE GOES THE PLOT
+We have a workforce strongly represented by 58 **Males**, accounting for 71% of the total workforce. Only 21 employees of Westeros are **Female** (26%)  and 3 employees prefer not to state their gender **(Other)** (4%).
 
 Let's create a contingency table to better understand the frequency of department by house.
 
